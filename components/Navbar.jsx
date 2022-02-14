@@ -18,14 +18,14 @@ const Navbar = () => {
       </div>
       <div className={styles.item}>
         <ul className={styles.list}>
+          <Image src="/img/logo.png" alt="" width="160px" height="69px" />
           <Link href="/" passHref>
             <li className={styles.listItem}>Homepage</li>
           </Link>
-          {/* <li className={styles.listItem}>Products</li> */}
+          {/* <li className={styles.listItem}>Products</li>
           <li className={styles.listItem}>Menu</li>
           <li className={styles.listItem}>Contact</li>
-          <Image src="/img/logo.png" alt="" width="160px" height="69px" />
-          {/* <li className={styles.listItem}>Events</li>
+          <li className={styles.listItem}>Events</li>
           <li className={styles.listItem}>Blog</li> */}
         </ul>
       </div>
