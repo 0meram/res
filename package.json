@@ -8,7 +8,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-
     "@reduxjs/toolkit": "^1.7.1",
     "@swc/core-win32-x64-msvc": "^1.2.140",
     "axios": "^0.24.0",
@@ -29,5 +28,8 @@
   "devDependencies": {
     "eslint": "8.4.1",
     "eslint-config-next": "12.0.7"
+  },
+  "optionalDependencies": {
+    "fsevents": "^2.3.2"
   }
 }
