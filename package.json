@@ -10,7 +10,6 @@
 	"dependencies": {
 		"@paypal/react-paypal-js": "^7.6.0",
 		"@reduxjs/toolkit": "^1.7.1",
-		"@swc/core-win32-x64-msvc": "^1.2.140",
 		"axios": "^0.24.0",
 		"cloudinary": "^1.28.1",
 		"cookie": "^0.4.1",
